@@ -45,7 +45,7 @@ In this section, the application is extended to include multiple dataset types t
   ![Moons Dataset](HW3-3_vF_MoonsDataset.png)
 
 - Spiral Dataset:
-  ![Spiral Dataset](HW3-3_vF_DpiralDataset.png)
+  ![Spiral Dataset](HW3-3_vF_SpiralDataset.png)
 
 - Elliptical Blobs Dataset:
   ![Elliptical Blobs Dataset](HW3-3_vF_BlobsDataset.png)
